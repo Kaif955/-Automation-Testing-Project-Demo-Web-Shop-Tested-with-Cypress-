@@ -6,13 +6,13 @@ This project focuses on the **automation testing** of the **Demo Web Shop** e-co
 
 ---
 
-## 🛠️ **Tools and Technologies**
----
-- **Automation Tool:** **Cypress** - A powerful, easy-to-use framework for automating end-to-end tests.
-- **Programming Language:** **JavaScript** - Chosen for its seamless integration with Cypress.
-- **Framework:** **Page Object Model (POM)** - For efficient and maintainable test scripts.
-- **Version Control:** **Git** - For managing project code changes and collaboration.
-- **CI/CD:** **GitHub Actions** - For continuous integration and automatic test execution on each commit.
+## 🛠️ **Tools and Technologies Used**
+
+![Cypress](https://img.shields.io/badge/Cypress-Testing-blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow)  
+![GitHub](https://img.shields.io/badge/GitHub-Version_Controlling-lightgrey)  
+![POM](https://img.shields.io/badge/Page_Object_Model-Framework-lightblue)
+
 
 ---
 
